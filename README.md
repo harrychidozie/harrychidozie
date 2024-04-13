@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 My Name Is Harry Chidozie
 I Am A Data Analysis
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:[linkedin](www.linkedin.com/in/harry-chidozie-a693b0261)
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
--->
+
