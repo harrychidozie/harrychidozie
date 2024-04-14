@@ -6,12 +6,10 @@ I Am A Data Analysis
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning about data analysis
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ..
+- 🔭 I’m currently learning about data analysis And Cloud Computing With AWS
+- 👯 I’m looking to collaborate on Data Analysis And Tech Infrastructures
 - 🤔 I’m looking for help with ...
-you can reach me on [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- 📫 How to reach me [Linkedin
+you can reach me on [Linkedin](https://www.linkedin.com/feed/)
 - 😄 Pronouns: ..  
 - ⚡ Fun fact: ...
 
